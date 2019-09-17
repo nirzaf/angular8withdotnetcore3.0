@@ -12,3 +12,17 @@ F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\Web
 F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
 F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Nirzaf\gitlab\Angular8WithDotNETCore3.0\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
