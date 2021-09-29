@@ -1,34 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nirzaf\\gitlab\\Angular8WithDotNETCore3.0\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "/workspaces/angular8withdotnetcore3.0/WebAPI/WebAPI/WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nirzaf\\gitlab\\Angular8WithDotNETCore3.0\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "/workspaces/angular8withdotnetcore3.0/WebAPI/WebAPI/WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nirzaf\\gitlab\\Angular8WithDotNETCore3.0\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "/workspaces/angular8withdotnetcore3.0/WebAPI/WebAPI/WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Nirzaf\\gitlab\\Angular8WithDotNETCore3.0\\WebAPI\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Nirzaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nirzaf\\gitlab\\Angular8WithDotNETCore3.0\\WebAPI\\WebAPI\\obj\\",
+        "projectPath": "/workspaces/angular8withdotnetcore3.0/WebAPI/WebAPI/WebAPI.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/workspaces/angular8withdotnetcore3.0/WebAPI/WebAPI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nirzaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -68,10 +65,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/opt/dotnet/5.0.400/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

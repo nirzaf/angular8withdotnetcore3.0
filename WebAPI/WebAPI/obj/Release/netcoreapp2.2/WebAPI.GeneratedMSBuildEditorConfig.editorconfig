@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebAPI
+build_property.ProjectDir = /workspaces/angular8withdotnetcore3.0/WebAPI/WebAPI/
